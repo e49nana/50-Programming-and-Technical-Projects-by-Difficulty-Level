@@ -18,7 +18,3 @@ Run unit tests with:
 ```bash
 python test_converter.py
 ```
-
----
-
-Made for my personal learning and TikTok dev series 🎥📱
