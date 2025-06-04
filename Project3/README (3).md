@@ -17,12 +17,4 @@ python generate_data.py
 python test_generate_data.py
 ```
 
-### 📹 TikTok Idea
-1. Simulate sinusoidal data
-2. Show the noisy points vs. smooth curve
-3. Export CSV and graph
-4. Challenge: build a model to reduce the noise!
-
----
-
-Made for my learning journey and dev series on TikTok 🎥
+Made for my learning journey
