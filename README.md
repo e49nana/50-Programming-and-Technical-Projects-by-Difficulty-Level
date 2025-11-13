@@ -1,66 +1,72 @@
 # 🚀 Technical Portfolio – Emmanuel Nana Nana
-
 This repository contains a collection of **50 personal projects** organized by difficulty level, combining **programming**, **physics**, **applied mathematics**, and **AI**.
-
 These projects are designed to reinforce my skills in Python, C#, Data Science, Numerical Simulation, and Software Engineering.
 
 ---
 
-## 🟢 Beginner Level
-- [ ] Einheiten-Konverter für technische Größen (Python) – Temperatur, Druck, Energie.
-- [ ] Freier-Fall-Simulator – Nutzt Grundgleichungen der Physik.
-- [ ] Generator für Messtabellen (NumPy + Matplotlib).
-- [ ] Spam-Erkennung mit Naive Bayes – Erste Schritte in ML.
-- [ ] Einfaches Pendelspiel (Pygame oder C#) – Physiksimulation.
-- [ ] Telegram-Wetterbot – API-Aufruf + Benachrichtigungen.
-- [ ] Einfache Signalverarbeitung (FFT) – Fouriertransformation auf Audiosignale.
-- [ ] Schwingungssimulator – Visualisierung und DGL.
-- [ ] RLC-Schaltungssimulator – Einfache Oberfläche + dynamische Berechnung.
-- [ ] Logger für simulierte Sensordaten (CSV + Diagramme).
-- [ ] Thermisches Modell eines Raumes (Wärmeleitungsgleichung).
-- [ ] Echtzeit-Datenanzeige via Matplotlib + virtuelle API.
-- [ ] Einfaches Backtesting-Skript (CSV + if/else-Logik).
-- [ ] Personenzähler in Videos (OpenCV) – Einstieg in Computer Vision.
-- [ ] GUI für einfache technische Berechnungen (Tkinter oder WinForms).
+# 🚀 Technical Portfolio – Emmanuel Nana Nana  
 
-## 🟡 Intermediate Level
-- [ ] Wellendarstellung mit Fourier + GUI.
-- [ ] Simulation eines Doppelpendels (chaotisch).
-- [ ] 2D-Wärmeleitungssimulation (explizite Methode).
-- [ ] Mini-CMS mit SQL-Datenbank + Python/C#-Zugriff.
-- [ ] Zeitreihenanalyse von Börsendaten (Pandas, TA-Lib).
-- [ ] Telegram-Bot zur Marktpreisüberwachung (Heroku + requests).
-- [ ] Text-zu-Sprache-App mit API + GUI.
-- [ ] Energieverbrauchsprognose (ML Regression).
-- [ ] Automatisierung physikalischer Messung im Labor (Simulation).
-- [ ] Schaltungssimulationsspiel mit visueller Oberfläche (Pygame/C#).
-- [ ] Anomalieerkennung in technischen Daten (ML).
-- [ ] Dashboard mit Power BI/Tableau verbunden mit Messdaten.
-- [ ] Mini-IDE für mathematischen Code (C# oder Python).
-- [ ] Wellenausbreitung auf einer Saite simulieren.
-- [ ] OCR zur Erkennung handschriftlicher Gleichungen (Tesseract + Nachbearbeitung).
-- [ ] Signalfilterung und -analyse (scipy.signal).
-- [ ] ML-Modell für intelligente Sensorik.
-- [ ] Sortieralgorithmus-Vergleich (Visualisierung + Benchmark).
-- [ ] Lokale Wettervorhersage-App mit API + Grafik.
-- [ ] KI zur Buchempfehlung mit NLP.
+---
 
-## 🔴 Advanced Level
-- [ ] Interaktiver DGL-Löser (Runge-Kutta + GUI).
-- [ ] Numerische Simulation eines Wärmekraftmotors (Otto-Zyklus).
-- [ ] CNN zur Klassifikation technischer Bilddaten.
-- [ ] Quantitatives Handelssystem (fortgeschrittenes Backtesting).
-- [ ] Plattform zur Sensorsteuerung (virtuelles IoT + Dashboard).
-- [ ] 2D-Physik-Engine (Kollisionen, Gravitation).
-- [ ] Finites-Elemente-Verfahren (1D/2D).
-- [ ] Verteiltes Rechnen (Multithreading oder Client-Server).
-- [ ] Automatische Technische Dokumentation (LLM + Prompt Engineering).
-- [ ] Bewegungsanalyse durch Kamera (Pose Estimation).
-- [ ] Energieanalyse einer Gebäudestruktur mit Planimport.
-- [ ] Simulation eines elektromagnetischen Feldes (vereinfachte Maxwell-Gleichungen).
-- [ ] 3D-Echtzeitvisualisierung physikalischer Daten (Unity + C#).
-- [ ] Gestenerkennung zur Systemsteuerung (ML + Kamera).
-- [ ] Digitaler Zwilling eines mechanischen oder thermischen Systems.
+## 🟢 Beginner Level (1–15)
+1. [ ] Unit converter for engineering quantities (Python)  
+2. [ ] Free-fall simulator (basic physics)  
+3. [ ] Measurement table generator (NumPy + Matplotlib)  
+4. [ ] Spam classifier using Naive Bayes  
+5. [ ] Simple pendulum game (Pygame or C#)  
+6. [ ] Telegram weather bot (API + notifications)  
+7. [ ] Basic signal processing – FFT on audio  
+8. [ ] Harmonic oscillator simulator (ODE solving)  
+9. [ ] RLC circuit simulator with simple UI  
+10. [ ] Sensor-data logger (CSV + plots)  
+11. [ ] Thermal room model (heat equation)  
+12. [ ] Real-time data visualization (Matplotlib + API)  
+13. [ ] Basic backtesting script (CSV-based)  
+14. [ ] People counter in videos (OpenCV)  
+15. [ ] GUI for engineering calculations (Tkinter or WinForms)  
+
+---
+
+## 🟡 Intermediate Level (16–35)
+16. [ ] Wave visualization with Fourier series + GUI  
+17. [ ] Double pendulum simulation (chaotic system)  
+18. [ ] 2D heat conduction simulation (explicit scheme)  
+19. [ ] Mini CMS with SQL + Python/C# backend  
+20. [ ] Stock time-series analysis (Pandas, TA-Lib)  
+21. [ ] Telegram bot for market-price monitoring  
+22. [ ] Text-to-speech mini app (API + UI)  
+23. [ ] Energy consumption forecasting (ML regression)  
+24. [ ] Automation of physics/engineering measurements (simulated)  
+25. [ ] Circuit-simulation game (Pygame/C#)  
+26. [ ] Anomaly detection in engineering datasets (ML)  
+27. [ ] Power BI/Tableau dashboard connected to measurement data  
+28. [ ] Mini IDE for mathematical code (Python or C#)  
+29. [ ] Wave propagation on a string – numerical solver  
+30. [ ] OCR for handwritten equations (Tesseract + post-processing)  
+31. [ ] Signal filtering and analysis (scipy.signal)  
+32. [ ] Intelligent sensor ML model  
+33. [ ] Sorting algorithms visualizer + benchmarks  
+34. [ ] Local weather-forecast app (API + visualization)  
+35. [ ] Book recommendation system (NLP)  
+
+---
+
+## 🔴 Advanced Level (36–50)
+36. [ ] Interactive ODE solver (Runge-Kutta + GUI)  
+37. [ ] Heat-engine numerical simulation (Otto cycle)  
+38. [ ] CNN for technical image classification  
+39. [ ] Advanced quantitative trading system (backtesting + analytics)  
+40. [ ] Sensor-management platform (virtual IoT + dashboard)  
+41. [ ] 2D physics engine (collisions, gravity)  
+42. [ ] Finite Element Method solver (1D/2D)  
+43. [ ] Distributed computing system (multithreading / client-server)  
+44. [ ] Automatic technical-documentation generator (LLM)  
+45. [ ] Motion analysis using pose estimation  
+46. [ ] Building energy simulation (import structural plan)  
+47. [ ] Electromagnetic field simulation (Maxwell simplified)  
+48. [ ] 3D real-time physics visualization (Unity + C#)  
+49. [ ] Gesture-recognition system (ML + camera)  
+50. [ ] Digital twin of a mechanical or thermal system  
 
 ---
 
